@@ -124,15 +124,15 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 16px;
 }
 
-.btn-primary a{
+/* .btn-primary a{
     color: white;
     text-decoration: none;
-}
+} */
 
-.btn-secondary a{
+/* .btn-secondary a{
     color: black;
     text-decoration: none;
-}
+} */
 
 .btn-secondary{
     font-weight: bold;
@@ -143,12 +143,4 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer;
     font-size: 16px;
     color: black;
-}
-.footer{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background-color: white;
-    color: black;
-    padding: 20px;
 }
